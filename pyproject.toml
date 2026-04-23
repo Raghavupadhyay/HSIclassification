@@ -1,0 +1,16 @@
+[project]
+name = "ohid-project"
+version = "0.1.0"
+description = "Hyperspectral Image Classification with CNN and Transformers"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "torch",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "matplotlib",
+    "tifffile"
+]
+
+
